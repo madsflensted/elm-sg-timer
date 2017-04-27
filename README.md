@@ -11,9 +11,9 @@ Pages:
 
 ## Pogression
 
-  1. Create basiv View and Model
+  1. Create basic View and Model
   2. Add update, upgrade to beginnerProgram
   3. Add subscribtions to get Time events
   4. InterOp with JS to play alarm.
 
-See the commit history for steps 1 and 2.
+See the commit history for the steps.
